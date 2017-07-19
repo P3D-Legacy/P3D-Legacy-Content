@@ -1,0 +1,6 @@
+Warning (16:59:50): Core.vb: File Validation failed! Download a fresh copy of the game to fix this issue.
+]Chat.vb: @player.warp(chrono\main.dat)
+ErrorMessage (17:04:54): LevelLoader.vb: Error accessing map file "C:\Users\Ben\Desktop\Content\Content\Profiles\Latest\maps\chrono\main.dat". File not found.
+]Chat.vb: @player.warp(chrono\town.dat)
+Warning (17:05:58): MusicManager.vb: Cannot find music file "sevii islands_wild_intro". Return nothing.
+Warning (17:06:01): MusicManager.vb: Cannot find music file "sevii islands_wild". Return nothing.

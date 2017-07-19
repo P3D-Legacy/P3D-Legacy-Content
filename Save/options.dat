@@ -1,0 +1,22 @@
+Music|50
+Sound|50
+Muted|0
+RenderDistance|2
+ShowDebug|1
+ShowBoundingBoxes|0
+ShowDebugConsole|1
+ShowGUI|1
+GraphicStyle|1
+LoadOffsetMaps|10
+Language|en
+ViewBobbing|1
+GamePadEnabled|1
+LightningEnabled|1
+StartedOfflineGame|1
+PreferMultiSampling|1
+ContentPacks|
+WindowSize|1200,680
+ForceMusic|0
+MaxOffsetLevel|0
+UpdateDisabled|0
+Extras|Backup Save
